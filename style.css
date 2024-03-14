@@ -1,0 +1,27 @@
+/* Insert any CSS code below here */
+
+body{
+  background-color:steelblue;
+  color:white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 3px;
+  color:white\;
+  
+  }
+
+
+p{
+  font-family: 'Courier New', Courier, monospace;
+  font-size:14px;
+  color:white;
+}
+
+table{
+  background-color: lightsteelblue;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
